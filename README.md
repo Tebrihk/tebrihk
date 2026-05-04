@@ -12,7 +12,7 @@
 
 </div>
 
-### 🚀 Builder | IoT Engineer | Problem Solver
+Software Robotics Engineer | Data scientist | Web developer | Embedded system engineer | Data analyst | PCB Design & fabrication | Travels | History buff
 
 I don’t just write code — I build systems that interact with the real world.
 
