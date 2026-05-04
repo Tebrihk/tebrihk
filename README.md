@@ -1,5 +1,17 @@
 # 👋 Hey, I'm Tebrihk
 
+<div align="center">
+
+![Connect](https://img.shields.io/badge/Connect-With%20Me-black?style=for-the-badge)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yourhandle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/234XXXXXXXXXX)
+
+</div>
+
 ### 🚀 Builder | IoT Engineer | Problem Solver
 
 I don’t just write code — I build systems that interact with the real world.
